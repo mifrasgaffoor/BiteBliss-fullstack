@@ -1,0 +1,32 @@
+[
+  {
+    "fullName": "Alice Smith",
+    "email": "alice@example.com",
+    "password": "alice123",
+    "mobileNumber": "1234567890"
+  },
+  {
+    "fullName": "Bob Johnson",
+    "email": "bob@example.com",
+    "password": "bob123",
+    "mobileNumber": "2345678901"
+  },
+  {
+    "fullName": "Eva Martinez",
+    "email": "eva@example.com",
+    "password": "eva123",
+    "mobileNumber": "3456789012"
+  },
+  {
+    "fullName": "David Lee",
+    "email": "david@example.com",
+    "password": "david123",
+    "mobileNumber": "4567890123"
+  },
+  {
+    "fullName": "Sophia Wilson",
+    "email": "sophia@example.com",
+    "password": "sophia123",
+    "mobileNumber": "5678901234"
+  }
+]

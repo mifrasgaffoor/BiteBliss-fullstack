@@ -1,0 +1,47 @@
+[
+  {
+    "productName": "Pizza",
+    "price": 10,
+    "image": "https://example.com/pizza.jpg"
+  },
+  {
+    "productName": "Burger",
+    "price": 5,
+    "image": "https://example.com/burger.jpg"
+  },
+  {
+    "productName": "Salad",
+    "price": 8,
+    "image": "https://example.com/salad.jpg"
+  },
+  {
+    "productName": "Pasta",
+    "price": 12,
+    "image": "https://example.com/pasta.jpg"
+  },
+  {
+    "productName": "Sandwich",
+    "price": 6,
+    "image": "https://example.com/sandwich.jpg"
+  },
+  {
+    "productName": "Sushi",
+    "price": 15,
+    "image": "https://example.com/sushi.jpg"
+  },
+  {
+    "productName": "Soup",
+    "price": 7,
+    "image": "https://example.com/soup.jpg"
+  },
+  {
+    "productName": "Steak",
+    "price": 20,
+    "image": "https://example.com/steak.jpg"
+  },
+  {
+    "productName": "Ice Cream",
+    "price": 4,
+    "image": "https://example.com/ice-cream.jpg"
+  }
+]
