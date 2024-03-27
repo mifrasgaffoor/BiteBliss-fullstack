@@ -36,7 +36,7 @@ router.post(
 );
 
 // Logout user
-router.get("/logout", logoutUser); // Define logout route
+router.get("/logout", logoutUser); //  logout route
 
 
 
